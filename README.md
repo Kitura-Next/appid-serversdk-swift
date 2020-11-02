@@ -77,7 +77,7 @@ var LANDING_PAGE_URL = "/index.html"
 
 // Setup Kitura to use session middleware
 // Must be configured with proper session storage for production
-// environments. See https://github.com/IBM-Swift/Kitura-Session for
+// environments. See https://github.com/Kitura-Next/Kitura-Session for
 // additional documentation
 let router = Router()
 let session = Session(secret: "Some secret")
