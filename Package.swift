@@ -27,7 +27,7 @@ let package = Package(
       .package(url: "https://github.com/Kitura-Next/SwiftyJSON.git", from: "17.0.0"),
       .package(url: "https://github.com/Kitura-Next/Kitura-Session.git", from: "3.1.0"),
       .package(url: "https://github.com/Kitura-Next/Kitura-Credentials.git", from: "2.1.0"),
-      .package(url: "https://github.com/Kitura-Next/SwiftyRequest.git", from: "2.0.5"),
+      .package(url: "https://github.com/Kitura-Next/SwiftyRequest.git", from: "3.0.0"),
       .package(url: "https://github.com/Kitura-Next/LoggerAPI.git", from: "1.7.0"),
       .package(url: "https://github.com/Kitura-Next/Swift-JWK-to-PEM.git", from: "0.4.0"),
       .package(url: "https://github.com/Kitura-Next/BlueRSA.git", from: "1.0.0")
